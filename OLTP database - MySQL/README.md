@@ -7,7 +7,7 @@ Objectives:
 *   automate admin tasks.
 
 
-OLTP Database
+OLTP Database tasks:
 
 Task 1 - Create a database.
 Create a database named sales.
